@@ -11,7 +11,7 @@ function Content({menu}) {
         );
     }
 
-    if (menu === "pendidikan") {
+    if (menu === "Pendidikan") {
         return(
             <>
             <h3>Pendidikan</h3>
@@ -23,7 +23,7 @@ function Content({menu}) {
         );
     }
 
-    if (menu === "teknologi") {
+    if (menu === "Teknologi") {
         return(
             <>
             <h3>Teknologi</h3>
@@ -35,7 +35,7 @@ function Content({menu}) {
         );
     }
 
-    if (menu === "ekonomi") {
+    if (menu === "Ekonomi") {
         return(
             <>
             <h3>Ekonomi</h3>
@@ -47,7 +47,7 @@ function Content({menu}) {
         );
     }
 
-    if(menu === "nasional") {
+    if(menu === "Nasional") {
         return(
             <>
             <h3>Nasional</h3>

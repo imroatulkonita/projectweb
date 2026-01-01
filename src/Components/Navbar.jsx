@@ -12,19 +12,19 @@ function Navbar({setMenu}) {
 
                 <ul className="navbar-nav ms-auto">
                     <li className="nav-item">
-                        <span className="nav-link" onClick={() => setMenu("kesehatan")}>kesehatan</span>
+                        <span className="nav-link" onClick={() => setMenu("kesehatan")}>Kesehatan</span>
                     </li>
                     <li className="nav-item">
-                        <span className="nav-link" onClick={() => setMenu("pendidikan")}>pendidikan</span>
+                        <span className="nav-link" onClick={() => setMenu("pendidikan")}>Pendidikan</span>
                     </li>
                      <li className="nav-item">
-                        <span className="nav-link" onClick={() => setMenu("teknologi")}>teknologi</span>
+                        <span className="nav-link" onClick={() => setMenu("teknologi")}>Teknologi</span>
                      </li>
                       <li className="nav-item">
-                        <span className="nav-link" onClick={() => setMenu("ekonomi")}>ekonomi</span>
+                        <span className="nav-link" onClick={() => setMenu("ekonomi")}>Ekonomi</span>
                       </li>
                        <li className="nav-item">
-                         <span className="nav-link" onClick={() => setMenu("nasional")}>nasional</span>
+                         <span className="nav-link" onClick={() => setMenu("nasional")}>Nasional</span>
                        </li>
                     </ul>
                  </div>
