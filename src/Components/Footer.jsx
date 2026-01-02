@@ -4,7 +4,7 @@ function Footer(){
             <div className="container py-4">
                 <div className="row text-center text-md-start">
 
-                    {/* Tentang */}
+                    {/* Tentang */} 
                     <div className="col-md-4 mb-3">
                         <h5 className="fw-bold">InfoNusa</h5>
                         <p className="small">
