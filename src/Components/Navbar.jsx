@@ -16,16 +16,16 @@ function Navbar({setMenu}) {
                         <span className="nav-link" onClick={() => setMenu("kesehatan")}>Kesehatan</span>
                     </li>
                     <li className="nav-item">
-                        <span className="nav-link" onClick={() => setMenu("pendidikan")}>Pendidikan</span>
+                        <span className="nav-link" onClick={() => setMenu("Pendidikan")}>Pendidikan</span>
                     </li>
                      <li className="nav-item">
-                        <span className="nav-link" onClick={() => setMenu("teknologi")}>Teknologi</span>
+                        <span className="nav-link" onClick={() => setMenu("Teknologi")}>Teknologi</span>
                      </li>
                       <li className="nav-item">
-                        <span className="nav-link" onClick={() => setMenu("ekonomi")}>Ekonomi</span>
+                        <span className="nav-link" onClick={() => setMenu("Ekonomi")}>Ekonomi</span>
                       </li>
                        <li className="nav-item">
-                         <span className="nav-link" onClick={() => setMenu("nasional")}>Nasional</span>
+                         <span className="nav-link" onClick={() => setMenu("Nasional")}>Nasional</span>
                        </li>
                     </ul>
                  </div>
