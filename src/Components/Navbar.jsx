@@ -8,7 +8,7 @@ function Navbar({setMenu}) {
                  style={{cursor : "pointer"}}
                  onClick={() => setMenu("home")}
                 >
-                   InfoNusa 
+                   Selamat datang di InfoNusa 
                 </span>
 
                 <ul className="navbar-nav ms-auto">
