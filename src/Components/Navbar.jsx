@@ -1,4 +1,5 @@
 function Navbar({setMenu}) {
+    <h1>{setMenu}</h1>
     return(
         <nav className="navbar navbar-expand-Ig navbar-dark bg-primary">
             <div className="container"> 
