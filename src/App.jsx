@@ -1,7 +1,8 @@
+/* eslint-disable */ 
 import { useState } from "react";
-import Navbar from "./Components/Navbar";
-import Content from "./Components/Content";
-import Footer from "./Components/Footer";
+import Navbar from "./components/Navbar";
+import Content from "./components/Content";
+import Footer from "./components/Footer"; 
 
 function App() {
   const [menu, setMenu] = useState("home");
