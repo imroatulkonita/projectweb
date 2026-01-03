@@ -15,7 +15,7 @@ function Footer(){
                     {/* Kategori */ }
                     <div className="col-md-4 mb-3">
                         <h5 className="fw-bold">Kategori</h5>
-                        <ul className="list-uns tyled small">
+                        <ul className="list-unstyled small">
                             <li>Kesehatan</li>
                             <li>Pendidikan</li>
                             <li>Teknologi</li>

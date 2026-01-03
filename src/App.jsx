@@ -6,7 +6,7 @@ import Footer from "./Components/Footer";
 function App() {
   const [menu, setMenu] = useState("home");
 
-  return( 
+  return(  
     <>
       <Navbar setMenu = {setMenu}/>
 
